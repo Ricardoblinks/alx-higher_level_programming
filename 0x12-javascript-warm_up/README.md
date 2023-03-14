@@ -1,1 +1,1 @@
-First project on javascript
+0x12. JavaScript - Warm up
